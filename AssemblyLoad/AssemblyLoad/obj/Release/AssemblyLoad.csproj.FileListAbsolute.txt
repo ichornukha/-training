@@ -1,0 +1,3 @@
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\bin\Release\AssemblyLoad.exe
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\obj\Release\AssemblyLoad.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\obj\Release\AssemblyLoad.exe

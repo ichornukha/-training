@@ -1,0 +1,5 @@
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\obj\Debug\AssemblyLoad.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\bin\Debug\AssemblyLoad.exe
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\bin\Debug\AssemblyLoad.pdb
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\obj\Debug\AssemblyLoad.exe
+C:\Users\Игорь\Documents\SharpDevelop Projects\AssemblyLoad\AssemblyLoad\obj\Debug\AssemblyLoad.pdb

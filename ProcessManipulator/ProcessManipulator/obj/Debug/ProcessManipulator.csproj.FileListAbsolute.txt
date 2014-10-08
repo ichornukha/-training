@@ -1,0 +1,6 @@
+c:\users\игорь\documents\visual studio 2013\Projects\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+c:\users\игорь\documents\visual studio 2013\Projects\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+c:\users\игорь\documents\visual studio 2013\Projects\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csprojResolveAssemblyReference.cache
+c:\users\игорь\documents\visual studio 2013\Projects\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+c:\users\игорь\documents\visual studio 2013\Projects\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.pdb
